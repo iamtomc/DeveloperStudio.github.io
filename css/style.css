@@ -129,7 +129,7 @@ blockquote {
 	height: 100%;
 	min-height: 100%;
 	position: relative;
-	color: #fff;
+	color: #000;
 }
 .banner-image {
 	vertical-align: middle;
@@ -511,7 +511,7 @@ textarea {
 /* Fixed Header
 ----------------------------------------------------------------------------- */
 .fixed-header-on .header {
-	background-color: rgba(0, 0, 0, 0.95);
+	background-color: rgba(32, 30, 43, 0.95);
 	padding: 5px 0;
 }
 .fixed-header-on .site-name {
