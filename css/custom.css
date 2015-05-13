@@ -9,8 +9,16 @@
     margin-right: auto;
     padding: 20px;
 	}
+
 .testimonial {
 
 	padding-top: 25px;
     padding-bottom: 25px;
 }
+.ddd {
+	max-height: 300px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
